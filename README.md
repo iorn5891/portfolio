@@ -3,7 +3,7 @@
 ### 自分が作成したアプリケーションを追加していきます。
 
 * React
-  * Create-iTunes-playlist
+  * Create-itunes-playlist
     * 自作アプリ
     * 指定した時間分ランダムな曲を詰めたiTunesのプレイリストを作成する(使い方はフォルダのREADME参照)
   * TodoList
